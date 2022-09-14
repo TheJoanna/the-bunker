@@ -96,12 +96,6 @@ h3 {
     font-weight: 400;
 }
 
-.subtle {
-    opacity: 0.8;
-    font-size: 0.9rem;
-    font-style: italic;
-}
-
 p, li {
     font-weight: 300;
     line-height: 1.4;
@@ -129,6 +123,12 @@ nav a {
 .fa-brands {
     font-size: 1.5rem;
     padding-left: 1rem;
+}
+
+.copyright {
+    opacity: 0.8;
+    font-size: 0.9rem;
+    font-style: italic;
 }
 
 /*  Background Images */
